@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Logo from "../assets/logo.png"
-import NavLinks from './NavlInks'
+import NavLinks from './NavLinks'
 import { useDispatch, useSelector } from 'react-redux'
 import { logoutUser, toggleTheme } from '../features/user/userSlice'
 import {clearCollection} from '../features/collection/collectionSlice'
