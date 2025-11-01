@@ -1,6 +1,6 @@
 import React from 'react'
 import SectionTitle from './SectionTitle'
-import Review from './review'
+import Review from './Review'
 
 const ReviewContainer = () => {
   return (
